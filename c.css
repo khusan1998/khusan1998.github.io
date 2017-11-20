@@ -1,0 +1,19 @@
+h1
+{
+	font-family: "Algerian";
+	color: rgb(0, 64, 255);
+	font-size: 30pt;
+	text-align: center;
+}
+p{
+	font-family: "Calibri";
+	color: hsl(60, 100%, 15%);
+}
+ul{
+	font-size: 15pt;
+	color: rgb(51, 204, 51);
+}
+li{
+	margin-right: 60px;
+}
+
